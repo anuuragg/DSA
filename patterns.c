@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+typedef enum { false, true } bool;
+
 void squareStarPattern(int n){
     for(int i = 0; i < n; i++){
         for(int j = 0; j < n; j++){
@@ -130,6 +132,18 @@ void mixedStarHalf(int n){
     printf("\n");
 }
 
+void binaryTriangle(int n){
+    int z = 1;
+    for(int i = 1; i <= n; i++){
+        for(int j = 1; j <= i; j++){
+            printf("%d", z % 2);
+            z++;
+        }
+        printf("\n");
+    }
+    printf("\n");
+}
+
 int main(){
     
     squareStarPattern(5);
@@ -151,6 +165,8 @@ int main(){
     mixedStarTriangle(5);
     printf("\n");
     mixedStarHalf(5);
+    printf("\n");
+    binaryTriangle(5);
     printf("\n");
 
     return 0;
