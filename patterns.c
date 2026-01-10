@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-typedef enum { false, true } bool;
+#define MIN(a, b) ((a) < (b) ? (a) : (b))
+
 
 void squareStarPattern(int n){
     for(int i = 0; i < n; i++){
@@ -299,6 +300,19 @@ void starBorder(int n){
     }
 }
 
+void closedNumPattern(int n){
+    for(int i = 0; i < 2*n-1; i++){
+        for(int j = 0; j < 2*n-1; j++){
+            int top = i;
+            int left = j;
+            int right = (2*n - 2) - j;
+            int down = (2*n - 2) - i;
+            printf("%d", n - MIN(MIN(top, down), MIN(right, left)));
+        }
+        printf("\n");
+    }
+}
+
 int main(){
     
     squareStarPattern(5);
@@ -362,6 +376,9 @@ int main(){
     printf("\n");
 
     starBorder(4);
+    printf("\n");
+
+    closedNumPattern(4);
     printf("\n");
     
     return 0;
