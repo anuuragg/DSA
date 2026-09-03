@@ -5,8 +5,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anuuragg/DSA/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/anuuragg/DSA/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anuuragg/DSA/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/anuuragg/DSA/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
