@@ -11,4 +11,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/anuuragg/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/anuuragg/DSA/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/anuuragg/DSA/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/anuuragg/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
