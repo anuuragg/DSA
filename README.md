@@ -43,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/anuuragg/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/anuuragg/DSA/tree/master/0844-backspace-string-compare) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anuuragg/DSA/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anuuragg/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anuuragg/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
