@@ -1,8 +1,12 @@
 class Solution:
     def fib(self, n: int) -> int:
-        a, b = 0, 1
+        stack = [0, 1]
 
         for _ in range(n):
-            a, b = b, a + b
+            b = stack.pop()
+            a = stack.pop()
 
-        return a
+            stack.append(b)
+            stack.append(a + b)
+
+        return stack[0]
