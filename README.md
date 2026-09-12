@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/anuuragg/DSA/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/anuuragg/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anuuragg/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/anuuragg/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/anuuragg/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/anuuragg/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/anuuragg/DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anuuragg/DSA/tree/master/0155-min-stack) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anuuragg/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
