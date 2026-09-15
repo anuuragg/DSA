@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuuragg/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/anuuragg/DSA/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/anuuragg/DSA/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/anuuragg/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuuragg/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuuragg/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/anuuragg/DSA/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/anuuragg/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/anuuragg/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/anuuragg/DSA/tree/master/0844-backspace-string-compare) |
