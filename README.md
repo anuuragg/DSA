@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anuuragg/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/anuuragg/DSA/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/anuuragg/DSA/tree/master/0682-baseball-game) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/anuuragg/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/anuuragg/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
