@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anuuragg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuuragg/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/anuuragg/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/anuuragg/DSA/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anuuragg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/anuuragg/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/anuuragg/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anuuragg/DSA/tree/master/0344-reverse-string) |
