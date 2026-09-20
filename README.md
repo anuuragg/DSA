@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuuragg/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/anuuragg/DSA/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anuuragg/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/anuuragg/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/anuuragg/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/anuuragg/DSA/tree/master/0844-backspace-string-compare) |
@@ -103,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anuuragg/DSA/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anuuragg/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anuuragg/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anuuragg/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
