@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anuuragg/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuuragg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuuragg/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/anuuragg/DSA/tree/master/0162-find-peak-element) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anuuragg/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuuragg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/anuuragg/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/anuuragg/DSA/tree/master/0283-move-zeroes) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuuragg/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/anuuragg/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
