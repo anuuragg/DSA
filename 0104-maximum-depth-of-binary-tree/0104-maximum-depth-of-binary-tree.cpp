@@ -13,19 +13,16 @@
 
 class Solution {
 public:
+    int preorder(TreeNode* root) {
+        if (root == nullptr) return 0;
 
-    int preorder(TreeNode* root, int i) {
-        if (root == nullptr) return i;
-        i++;
-        int l_depth = preorder(root->left, i);
-        int r_depth = preorder(root->right, i);
+        int l_depth = preorder(root->left);
+        int r_depth = preorder(root->right);
 
-        return max(l_depth, r_depth);
+        return 1 + max(l_depth, r_depth);
     }
 
     int maxDepth(TreeNode* root) {
-        int i = 0;
-        int depth = preorder(root, i);
-        return depth;
+        return preorder(root);
     }
 };
