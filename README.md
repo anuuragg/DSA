@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuuragg/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/anuuragg/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuuragg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuuragg/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/anuuragg/DSA/tree/master/0162-find-peak-element) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anuuragg/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anuuragg/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/anuuragg/DSA/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/anuuragg/DSA/tree/master/0344-reverse-string) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/anuuragg/DSA/tree/master/0904-fruit-into-baskets) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anuuragg/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
