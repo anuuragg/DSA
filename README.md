@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anuuragg/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/anuuragg/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/anuuragg/DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/anuuragg/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0682-baseball-game](https://github.com/anuuragg/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/anuuragg/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/anuuragg/DSA/tree/master/0904-fruit-into-baskets) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/anuuragg/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/anuuragg/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/anuuragg/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anuuragg/DSA/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/anuuragg/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
