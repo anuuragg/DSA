@@ -1,29 +1,26 @@
 class Solution {
 public:
     string addStrings(string num1, string num2) {
-        string ans = "";
         int i = num1.size() - 1;
         int j = num2.size() - 1;
         int carry = 0;
 
-        while (i >= 0 || j >= 0) {
-            int a = (i >= 0) ? num1[i] - '0' : 0;
-            int b = (j >= 0) ? num2[j] - '0' : 0;
+        string ans;
 
-            int sum = a + b + carry;
+        while (i >= 0 || j >= 0 || carry) {
+            int sum = carry;
 
-            ans += to_string(sum % 10);
+            if (i >= 0)
+                sum += num1[i--] - '0';
+
+            if (j >= 0)
+                sum += num2[j--] - '0';
+
+            ans += char('0' + sum % 10);
             carry = sum / 10;
-
-            i--;
-            j--;
         }
 
-        if (carry)
-            ans += to_string(carry);
-
         reverse(ans.begin(), ans.end());
-
         return ans;
     }
 };
