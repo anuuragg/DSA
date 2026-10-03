@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/anuuragg/DSA/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/anuuragg/DSA/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/anuuragg/DSA/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/anuuragg/DSA/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/anuuragg/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuuragg/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/anuuragg/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/anuuragg/DSA/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/anuuragg/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/anuuragg/DSA/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/anuuragg/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/anuuragg/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anuuragg/DSA/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/anuuragg/DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/anuuragg/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
