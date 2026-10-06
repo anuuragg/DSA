@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anuuragg/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuuragg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuuragg/DSA/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/anuuragg/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/anuuragg/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/anuuragg/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anuuragg/DSA/tree/master/0238-product-of-array-except-self) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuuragg/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuuragg/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/anuuragg/DSA/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/anuuragg/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/anuuragg/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anuuragg/DSA/tree/master/0344-reverse-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anuuragg/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/anuuragg/DSA/tree/master/0217-contains-duplicate) |
 ## Design
 |  |
@@ -162,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anuuragg/DSA/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anuuragg/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anuuragg/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
