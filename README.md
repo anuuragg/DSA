@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuuragg/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/anuuragg/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anuuragg/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/anuuragg/DSA/tree/master/0071-simplify-path) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuuragg/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/anuuragg/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/anuuragg/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anuuragg/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuuragg/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/anuuragg/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/anuuragg/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/anuuragg/DSA/tree/master/0904-fruit-into-baskets) |
