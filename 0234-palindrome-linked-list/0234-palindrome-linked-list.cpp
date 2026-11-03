@@ -10,39 +10,46 @@
  */
 class Solution {
 public:
+    void rev(ListNode*& curr){
+        ListNode* prev = nullptr;
+        ListNode* temp = nullptr;
+
+        while(curr != nullptr){
+            temp = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = temp;
+        }
+
+        curr = prev;
+    }
+
     bool isPalindrome(ListNode* head) {
         if (!head || !head->next) return true;
 
         ListNode* slow = head;
         ListNode* fast = head;
 
-        while (fast->next && fast->next->next) {
+        while(fast->next != nullptr && fast->next->next != nullptr){
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        ListNode* curr = slow->next;
-        ListNode* prev = nullptr;
-
-        while (curr) {
-            ListNode* next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-        }
-
         ListNode* first = head;
-        ListNode* second = prev;
+        ListNode* sec = slow->next;
+        rev(sec);
 
-        while (second) {
-            if (first->val != second->val) {
+        while(first && sec){
+            if(first->val != sec->val){
+                rev(slow->next);
                 return false;
             }
 
             first = first->next;
-            second = second->next;
+            sec = sec->next;
         }
 
         return true;
+
     }
 };
