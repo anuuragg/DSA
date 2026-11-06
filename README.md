@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/anuuragg/DSA/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/anuuragg/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/anuuragg/DSA/tree/master/0707-design-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/anuuragg/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/anuuragg/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anuuragg/DSA/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/anuuragg/DSA/tree/master/0707-design-linked-list) |
 ## Tree
 |  |
 | ------- |
