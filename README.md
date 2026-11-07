@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/anuuragg/DSA/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/anuuragg/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuuragg/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/anuuragg/DSA/tree/master/1544-make-the-string-great) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anuuragg/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/anuuragg/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/anuuragg/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/anuuragg/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuuragg/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/anuuragg/DSA/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/anuuragg/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
